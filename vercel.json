@@ -1,12 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/admin",
-      "destination": "/admin/index.html"
+      "source": "/cms",
+      "destination": "/cms/index.html"
     },
     {
-      "source": "/admin/callback",
-      "destination": "/admin/index.html"
+      "source": "/cms/callback",
+      "destination": "/cms/index.html"
     }
   ]
 }
