@@ -5,10 +5,6 @@
       "destination": "/admin/index.html"
     },
     {
-      "source": "/admin/",
-      "destination": "/admin/index.html"
-    },
-    {
       "source": "/admin/callback",
       "destination": "/admin/index.html"
     }
