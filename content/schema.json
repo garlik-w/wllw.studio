@@ -1,0 +1,19 @@
+{
+  "title": "Home Content Schema",
+  "description": "Schema for /content/home.json",
+  "required": ["title", "image", "text"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Page title"
+    },
+    "image": {
+      "type": "string", 
+      "description": "Image URL path"
+    },
+    "text": {
+      "type": "string",
+      "description": "Main content text"
+    }
+  }
+}
